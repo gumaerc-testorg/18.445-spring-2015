@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Solution 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-445-introduction-to-stochastic-processes-spring-2015/bc936647029c547c8be2bcc47f7394de_MIT18_445S15_homework3_sol.pdf
+file: /media/courses/18-445-introduction-to-stochastic-processes-spring-2015/bc936647029c547c8be2bcc47f7394de_MIT18_445S15_homework3_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Introduction to Stochastic Processes, Solution 3
 uid: bc936647-029c-547c-8be2-bcc47f7394de
