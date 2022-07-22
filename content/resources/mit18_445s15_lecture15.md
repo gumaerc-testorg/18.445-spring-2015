@@ -6,6 +6,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/fb97374de
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 18.445 Introduction to Stochastic Processes, Lecture 15
 uid: fb97374d-ed39-d0e4-a004-7564af28dc93
 ---
 This file contains information regarding conditional expectation and introduction to martingales.
-

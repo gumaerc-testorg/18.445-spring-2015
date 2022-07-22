@@ -5,6 +5,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/f305e5828
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction to Stochastic Processes, Solution 5
 uid: f305e582-897c-6eab-6596-526d8e16e0b3
 ---
 This resource contains the information regarding Solution 5.
-

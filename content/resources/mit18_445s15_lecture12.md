@@ -6,6 +6,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/b47415dd7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 18.445 Introduction to Stochastic Processes, Lecture 12
 uid: b47415dd-7974-0b66-abee-d971a5968eda
 ---
 This file contains information regarding countable state space chain 1.
-

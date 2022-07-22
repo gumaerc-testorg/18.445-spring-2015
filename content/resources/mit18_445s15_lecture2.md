@@ -5,6 +5,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/2edaa8542
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.445 Introduction to Stochastic Processes, Lecture 2
 uid: 2edaa854-2469-ce69-2226-813a8bd1ec88
 ---
 This file contains information regarding markov chains: stationary distribution.
-

@@ -5,6 +5,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/fe958a5aa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.445 Introduction to Stochastic Processes, Lecture 11
 uid: fe958a5a-aa0c-2b22-8436-3a8f60db85a6
 ---
 This file contains information regarding summary on random walk on networks.
-

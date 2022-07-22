@@ -5,6 +5,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/ea46d3e43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.445 Introduction to Stochastic Processes, Lecture 6
 uid: ea46d3e4-323b-91db-3e8d-f873614e207b
 ---
 This file contains information regarding lower bounds on mixing times.
-

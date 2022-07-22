@@ -5,6 +5,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/f6b1c125c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.445 Introduction to Stochastic Processes, Lecture 22
 uid: f6b1c125-c2b4-7192-8e96-0a1d2c8ea6b5
 ---
 This file contains information regarding infinitesimal generator.
-

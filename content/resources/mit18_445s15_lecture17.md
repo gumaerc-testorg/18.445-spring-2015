@@ -5,6 +5,7 @@ file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/5fe914506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 18.445 Introduction to Stochastic Processes, Lecture 17
 uid: 5fe91450-62f4-c67f-4f67-5b6e18bc2065
 ---
 This file contains information regarding martingales: convergence.
-
