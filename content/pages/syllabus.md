@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on prerequisites, recommended textbooks, assignments, exams, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7e370f07-bfe2-9064-874a-1552bcad8217
 ---

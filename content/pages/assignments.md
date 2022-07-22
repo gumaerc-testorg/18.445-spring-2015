@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course along with
+  solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 77a58fd7-7428-eca6-2500-d70dc2c1b3a9
 ---
@@ -29,7 +34,7 @@ SOLUTIONS
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignments 1 Solution (PDF)]({{< baseurl >}}/resources/mit18_445s15_homework1_sol)
+{{% resource_link 169ab5a5-e82c-f68a-cb9a-e4631e55ab24 "Assignments 1 Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +50,7 @@ SOLUTIONS
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignments 2 Solution (PDF)]({{< baseurl >}}/resources/mit18_445s15_homework2_sol)
+{{% resource_link bf131eea-46fd-ddde-a9b3-ff0b34a7ad26 "Assignments 2 Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,25 +65,25 @@ SOLUTIONS
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignments 3 Solution (PDF)]({{< baseurl >}}/resources/mit18_445s15_homework3_sol)
+{{% resource_link bc936647-029c-547c-8be2-bcc47f7394de "Assignments 3 Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Assignments 4 (PDF)]({{< baseurl >}}/resources/mit18_445s15_homework4)
+{{% resource_link a99ce697-d076-0883-0017-f4367535ab94 "Assignments 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignments 4 Solution (PDF)]({{< baseurl >}}/resources/mit18_445s15_homework4_sol)
+{{% resource_link 6d12d4c8-d7f3-c910-e6b0-902dbaf528a8 "Assignments 4 Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Assignments 5 (PDF)]({{< baseurl >}}/resources/mit18_445s15_homework5)
+{{% resource_link e5bd55b2-221c-5d2c-5047-bf8a96981e7c "Assignments 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignments 5 Solution (PDF)]({{< baseurl >}}/resources/mit18_445s15_homework5_sol)
+{{% resource_link f305e582-897c-6eab-6596-526d8e16e0b3 "Assignments 5 Solution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

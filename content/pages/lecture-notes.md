@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course and
+  the lecture notes for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4cd95574-478d-71c3-e3dd-71cb168623ee
 ---
@@ -22,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Finite Markov Chains (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture1)
+{{% resource_link 365d85ac-35a7-c006-bc33-dd03da633997 "Introduction to Finite Markov Chains (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +36,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Markov Chains: Stationary Distribution (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture2)
+{{% resource_link 2edaa854-2469-ce69-2226-813a8bd1ec88 "Markov Chains: Stationary Distribution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Markov Chains: Time-reversal (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture3)
+{{% resource_link c6f2ad74-afb7-a27a-6bfb-b7984bf3e062 "Markov Chains: Time-reversal (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Markov Chain Mixing (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture4)
+{{% resource_link 5bd4774f-613a-a28b-d111-c36f3a3beeed "Introduction to Markov Chain Mixing (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Stationary Times (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture5)
+{{% resource_link a6a0bbc7-3826-6b41-90bf-9765776f03b9 "Stationary Times (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Lower Bounds on Mixing Times (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture6)
+{{% resource_link ea46d3e4-323b-91db-3e8d-f873614e207b "Lower Bounds on Mixing Times (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Summary on Mixing Times (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture7)
+{{% resource_link 8bd5cba3-9565-4cbd-0a9e-a71c1f342aa0 "Summary on Mixing Times (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Random Walk on Networks 1 (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture8)
+{{% resource_link bc4e626f-edc9-aa9b-b62c-96e80fbd6ac0 "Random Walk on Networks 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Random Walk on Networks 2 (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture9)
+{{% resource_link 02c81e4f-e01f-0d97-bb64-4c2d407d1a46 "Random Walk on Networks 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Hitting Times (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture10)
+{{% resource_link 1c4e0f0b-f28f-0ec9-f0fd-6bc8f7b896f1 "Hitting Times (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Summary on Random Walk on Networks (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture11)
+{{% resource_link fe958a5a-aa0c-2b22-8436-3a8f60db85a6 "Summary on Random Walk on Networks (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +126,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Countable State Space Chain 1 (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture12)
+{{% resource_link b47415dd-7974-0b66-abee-d971a5968eda "Countable State Space Chain 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[Countable State Space Chain 2 (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture13)
+{{% resource_link 01eb8f31-f3e7-2b45-3288-7f64419f2267 "Countable State Space Chain 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ Midterm Exam (No Lecture Notes)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Conditional Expectation and Introduction to Martingales (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture15)
+{{% resource_link fb97374d-ed39-d0e4-a004-7564af28dc93 "Conditional Expectation and Introduction to Martingales (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +162,7 @@ Midterm Exam (No Lecture Notes)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Martingales: Optional Stopping Theorem (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture16)
+{{% resource_link ddeda684-b0dd-6a14-2241-8c7eca3ce843 "Martingales: Optional Stopping Theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,9 +173,9 @@ Midterm Exam (No Lecture Notes)
 {{< tdopen >}}
 
 
-[Martingales: Convergence (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture17)
+{{% resource_link 5fe91450-62f4-c67f-4f67-5b6e18bc2065 "Martingales: Convergence (PDF)" %}}
 
-[Almost Sure Convergence (PDF)]({{< baseurl >}}/resources/mit18_445s15_almost_sure)
+{{% resource_link a97d99f6-ba0f-ff4c-07e2-b14f0e1e54ef "Almost Sure Convergence (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -181,7 +186,7 @@ Midterm Exam (No Lecture Notes)
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Martingales: Uniformly Integrable (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture18)
+{{% resource_link e131f4c5-16e7-f67a-e274-87d6a80f41d0 "Martingales: Uniformly Integrable (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +195,7 @@ Midterm Exam (No Lecture Notes)
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Galton-Watson Tree (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture19)
+{{% resource_link 27aaeb9e-b9a9-cecc-e93d-9ad74413ddf5 "Galton-Watson Tree (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +204,7 @@ Midterm Exam (No Lecture Notes)
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Poisson Process (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture20)
+{{% resource_link 06c09371-501e-b1d7-dd4c-7c72c74cef5b "Poisson Process (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +213,7 @@ Midterm Exam (No Lecture Notes)
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Continuous Time Markov Chain (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture21)
+{{% resource_link 245cbb88-8867-2b1b-902c-308fd6e2468f "Continuous Time Markov Chain (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +222,7 @@ Midterm Exam (No Lecture Notes)
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Infinitesimal Generator (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture22)
+{{% resource_link f6b1c125-c2b4-7192-8e96-0a1d2c8ea6b5 "Infinitesimal Generator (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,7 +231,7 @@ Midterm Exam (No Lecture Notes)
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Irreducible and Recurrence (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture23)
+{{% resource_link 367ae61a-917e-4bd3-3bc0-0f7d95d613b4 "Irreducible and Recurrence (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +240,7 @@ Midterm Exam (No Lecture Notes)
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Stationary Distribution (PDF)]({{< baseurl >}}/resources/mit18_445s15_lecture24)
+{{% resource_link 0da3dbb5-cc20-3e94-6b38-eb249eb9e499 "Stationary Distribution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
