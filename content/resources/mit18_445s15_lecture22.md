@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding infinitesimal generator.
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/f6b1c125c2b471928e960a1d2c8ea6b5_MIT18_445S15_lecture22.pdf
+file_size: 259816
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

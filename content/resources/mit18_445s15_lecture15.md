@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding conditional expectation and
   introduction to martingales.
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/fb97374ded39d0e4a0047564af28dc93_MIT18_445S15_lecture15.pdf
+file_size: 192059
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding martingales: uniformly integrable.'
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/e131f4c516e7f67ae27487d6a80f41d0_MIT18_445S15_lecture18.pdf
+file_size: 203792
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
