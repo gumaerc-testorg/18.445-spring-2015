@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding stationary times.
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/a6a0bbc738266b4190bf9765776f03b9_MIT18_445S15_lecture5.pdf
+file_size: 196767
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

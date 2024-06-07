@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Assignment 4.
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/a99ce697d07608830017f4367535ab94_MIT18_445S15_homework4.pdf
+file_size: 184381
 file_type: application/pdf
 learning_resource_types:
 - Assignments

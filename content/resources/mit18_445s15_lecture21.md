@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding continuous time markov chain.
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/245cbb8888672b1b902c308fd6e2468f_MIT18_445S15_lecture21.pdf
+file_size: 181088
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
