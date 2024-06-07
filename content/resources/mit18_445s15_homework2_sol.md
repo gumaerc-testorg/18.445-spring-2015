@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Solution 2.
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/bf131eea46fddddea9b3ff0b34a7ad26_MIT18_445S15_homework2_sol.pdf
+file_size: 345121
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding markov chains: stationary distribution.'
 file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/2edaa8542469ce692226813a8bd1ec88_MIT18_445S15_lecture2.pdf
+file_size: 197437
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
