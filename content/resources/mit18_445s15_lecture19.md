@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding Galton-Watson tree.
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/27aaeb9eb9a9cecce93d9ad74413ddf5_MIT18_445S15_lecture19.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/27aaeb9eb9a9cecce93d9ad74413ddf5_MIT18_445S15_lecture19.pdf
 file_size: 187040
 file_type: application/pdf
 learning_resource_types:

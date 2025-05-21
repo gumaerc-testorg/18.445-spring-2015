@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding random walk on networks 1.
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/bc4e626fedc9aa9bb62c96e80fbd6ac0_MIT18_445S15_lecture8.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/bc4e626fedc9aa9bb62c96e80fbd6ac0_MIT18_445S15_lecture8.pdf
 file_size: 194879
 file_type: application/pdf
 learning_resource_types:

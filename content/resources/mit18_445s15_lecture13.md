@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding countable state space chain
   2.
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/01eb8f31f3e72b4532887f64419f2267_MIT18_445S15_lecture13.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/01eb8f31f3e72b4532887f64419f2267_MIT18_445S15_lecture13.pdf
 file_size: 148659
 file_type: application/pdf
 learning_resource_types:
