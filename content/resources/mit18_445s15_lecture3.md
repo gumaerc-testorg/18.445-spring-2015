@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding markov chains: time-reversal.'
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/c6f2ad74afb7a27a6bfbb7984bf3e062_MIT18_445S15_lecture3.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/c6f2ad74afb7a27a6bfbb7984bf3e062_MIT18_445S15_lecture3.pdf
 file_size: 241172
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lower bounds on mixing times.
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/ea46d3e4323b91db3e8df873614e207b_MIT18_445S15_lecture6.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/ea46d3e4323b91db3e8df873614e207b_MIT18_445S15_lecture6.pdf
 file_size: 183297
 file_type: application/pdf
 learning_resource_types:

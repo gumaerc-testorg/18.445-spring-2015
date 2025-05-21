@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding introduction to markov chain
   mixing.
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/5bd4774f613aa28bd111c36f3a3beeed_MIT18_445S15_lecture4.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/5bd4774f613aa28bd111c36f3a3beeed_MIT18_445S15_lecture4.pdf
 file_size: 240106
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding martingales: convergence.'
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/5fe9145062f4c67f4f675b6e18bc2065_MIT18_445S15_lecture17.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/5fe9145062f4c67f4f675b6e18bc2065_MIT18_445S15_lecture17.pdf
 file_size: 212150
 file_type: application/pdf
 learning_resource_types:
