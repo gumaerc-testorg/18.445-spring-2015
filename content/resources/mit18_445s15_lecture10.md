@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding hitting times.
-file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/1c4e0f0bf28f0ec9f0fd6bc8f7b896f1_MIT18_445S15_lecture10.pdf
+file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/1c4e0f0bf28f0ec9f0fd6bc8f7b896f1_MIT18_445S15_lecture10.pdf
 file_size: 179824
 file_type: application/pdf
 learning_resource_types:
