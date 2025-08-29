@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding introduction to finite markov
   chains.
-file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/365d85ac35a7c006bc33dd03da633997_MIT18_445S15_lecture1.pdf
+file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/365d85ac35a7c006bc33dd03da633997_MIT18_445S15_lecture1.pdf
 file_size: 375509
 file_type: application/pdf
 learning_resource_types:

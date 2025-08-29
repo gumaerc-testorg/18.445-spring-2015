@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Solution 5.
-file: /courses/18-445-introduction-to-stochastic-processes-spring-2015/f305e582897c6eab6596526d8e16e0b3_MIT18_445S15_homework5_sol.pdf
+file: /ol-ocw-studio-app/courses/18-445-introduction-to-stochastic-processes-spring-2015/f305e582897c6eab6596526d8e16e0b3_MIT18_445S15_homework5_sol.pdf
 file_size: 392403
 file_type: application/pdf
 learning_resource_types:
