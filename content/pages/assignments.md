@@ -9,7 +9,7 @@ title: Assignments
 uid: 77a58fd7-7428-eca6-2500-d70dc2c1b3a9
 ---
 
-The homework exercises in the first three assignments are selected from Levin, David Asher, Y. Peres, and Elizabeth L. Wilmer. _Markov Chains and Mixing Times_. American Mathematical Society, 2008. ISBN: 9780821847398. \[Preview with [Google Books](http://books.google.com/books?id=6Cg5Nq5sSv4C&pg=PAfrontcover)\] Solutions courtesy of Cheng Mao. Used with permission.
+The homework exercises in the first three assignments are selected from Levin, David Asher, Y. Peres, and Elizabeth L. Wilmer. _Markov Chains and Mixing Times_. American Mathematical Society, 2008. ISBN: 9780821847398. \[Preview with {{% resource_link "5f66553c-1d09-4184-96c8-d6cb8dd4150e" "Google Books" %}}\] Solutions courtesy of Cheng Mao. Used with permission.
 
 {{< tableopen >}}
 {{< theadopen >}}
