@@ -26,11 +26,11 @@ This course is an introduction to Markov chains, random walks, martingales, and 
 Recommended Textbooks
 ---------------------
 
-Levin, David Asher, Y. Peres, and Elizabeth L. Wilmer. _Markov Chains and Mixing Times_. American Mathematical Society, 2008. ISBN: 9780821847398. \[Preview with [Google Books](http://books.google.com/books?id=6Cg5Nq5sSv4C&pg=PAfrontcover)\]
+Levin, David Asher, Y. Peres, and Elizabeth L. Wilmer. _Markov Chains and Mixing Times_. American Mathematical Society, 2008. ISBN: 9780821847398. \[Preview with {{% resource_link "5f66553c-1d09-4184-96c8-d6cb8dd4150e" "Google Books" %}}\]
 
 Williams, D. _Probability with Martingales_. Cambridge University Press, 1991. ISBN: 9780387985091.
 
-Brémaud, Pierre. _Markov Chains: Gibbs Fields, Monte Carlo Simulation, and Queues_. Springer, 2008. ISBN: 9780387985091. \[Preview with [Google Books](http://books.google.com/books?id=KF0LgxRCgQsC&pg=PAfrontcover)\]
+Brémaud, Pierre. _Markov Chains: Gibbs Fields, Monte Carlo Simulation, and Queues_. Springer, 2008. ISBN: 9780387985091. \[Preview with {{% resource_link "fda03761-9d03-4ae2-be5e-95aee3a2b4e1" "Google Books" %}}\]
 
 Assignments and Exams
 ---------------------
